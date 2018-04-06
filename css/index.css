@@ -1,0 +1,114 @@
+/* 顶部  开始 */
+    .head{width: 100%;height: 40px;background-color: #424242;}
+    .head .head_zong{width: 1100px;height: 40px;margin: 0 auto}
+    .head .head_zong .zuo{float: left;line-height:40px;text-align: center; color: #b0b0b0;font-size: 14px; cursor: pointer;}
+    .head .head_zong .zuo a .gang{margin-left: 10px}
+    .head .head_zong .you{float: right;}
+    .head .head_zong .zuo a{color: #888;margin-right: 10px}
+    .head .head_zong .zuo a:hover{text-decoration: none;color: white}
+    .head .head_zong .you a{color: #888;}
+    .head .head_zong .you .you1{float: left;line-height: 40px;padding-right:10px;}
+    .head .head_zong .you .you1 .gang{margin: 10px;color: #888}
+    .head .head_zong .you .you1 a:hover{text-decoration: none;color: white}
+    .head .head_zong .you .you2{float: right;line-height: 40px;background: #666}
+    .head .head_zong .you .you2 a{margin: 10px}
+    .head .head_zong .you .you2 a:hover{text-decoration: underline;color: #fff}
+/* 顶部  结束 */
+
+/* 导航栏 开始 */
+    #daohang{width: 100%;color: #424242;}
+    #daohang #daohang_zhong{width: 1226px;margin: 0 auto;height: 100px}
+    #daohang #daohang_zhong #daohang_tu{width: 55px;height: 55px;line-height: 55px;text-align: center;float: left;margin-top: 20px;}
+    #daohang #daohang_zhong #daohang_zi{float: left;width: auto;height: 100%;margin-left: 100px}
+    #daohang #daohang_zhong #daohang_zi ul{list-style-type: none;}
+    #daohang #daohang_zhong #daohang_zi ul li{float: left;line-height: 100px;text-align: center;padding: 0 15px;}
+    #daohang #daohang_zhong #daohang_zi ul li a{color: #252525}
+    #daohang #daohang_zhong #daohang_zi ul li a:hover{color: red;text-decoration: none}
+    #daohang #daohang_zhong #daohang_you{float: right;margin-top: 25px;width: 300px;height: 50px;line-height: 50px;border: 1px solid #5555}
+    #daohang #daohang_zhong #daohang_you #daohang_you1{float: left;width: 200px;height: 40px;}
+    #daohang #daohang_zhong #daohang_you #daohang_you1 #daohang_you1_1{border: none;outline: none}
+    #daohang #daohang_zhong #daohang_you #daohang_you2{  width: 54px;
+    height: 48px;text-align: center;float: left;font-size: 20px; font-weight: 900;color: #424242;cursor: pointer;border-left: 1px solid #f0f0f0; border-left:1px solid rgb(170, 165, 165)}
+    #daohang #daohang_zhong #daohang_you #daohang_you2 a{color: #252525}
+    #daohang #daohang_zhong #daohang_you #daohang_you2 a:hover{color: red;text-decoration: none}
+/* 导航栏 结束 */
+
+/* 内容 开始 */
+    .neirong{width: 1226px;margin: 0 auto}
+    .neirong .zuo{width: 226px;;border: 1px solid black;float: left;background-color: rgb(34, 15, 15);font-size: 14px}
+    .neirong .zuo p{margin: 24px;}
+    .neirong .you{float: left;width: 998px;height: 457px;}
+    .neirong .zuo a{color: white; margin: 2px}
+    .neirong .zuo a:hover{cursor: pointer;text-decoration: none}
+    .neirong .zuo p{color: white;}
+    .neirong .zuo .dayu{margin-left: 50px;float: right;font-size: 17px;cursor: pointer;}
+/* 内容 结束*/
+
+/* 内容01 开始 */
+    .tupian{width: 1226px;margin: 0 auto;padding-left: 1px}
+    .tupian .q{float: left;margin: 20px 10px 20px 0;}
+    .tupian .w{float: right;margin: 20px 0 20px 10px}
+    .tupian .e{float: right;margin: 20px 0 20px 10px}
+    .tupian .r{float: right;margin: 20px 0 20px 5px}
+    .tupian .kaifang{width: 245px;height: 172px;;float: left;font-size: 12px;margin: 20px 0 20px 0px;background-color: #999;}
+    .tupian .kaifang .q{border: 1px solid #777;line-height: 25px;margin: 5px;color: white;width:69.5px;height: 73px;}
+/* 内容01 结束 */
+
+/* 内容02 开始 */
+    #xiaomi{clear: both;;width: 1226px;height: 60px; text-align: center;margin-left: 60px}
+    #xiaomi .mi{float: left;;font-size: 25px}
+    #xiaomi .fuhao{float: right;}
+    #xiaomi .fuhao .xiao{border: 1px solid #888;font-size: 25px;padding: 0 15px;cursor: pointer;}
+    #xiaomi .fuhao .da{border: 1px solid #888;font-size: 25px;padding: 0 15px;cursor: pointer;}
+    #xiaomi .fuhao{color: #888}
+/* 内容02结束 */
+
+/* 内容03 开始 */
+    .neirong_san{clear: both;;width: 1226px;height: 60px; text-align: center;margin-left: 60px}
+    .neirong_san .neirong_san_tu{width: 200px;height: 210px;float: left;}
+    .neirong_san .neirong_san_tu{margin: 0 34px;}
+    .neirong_san .neirong_san_tu{float: left;;margin: 10px 22.5px;border-top: 1px solid red;}
+/* 内容03 结束 */
+
+/* 内容4 */
+    .neirong_4{clear: both;;width: 1226px; text-align: center;margin-left: 60px}
+    .neirong_4 .nr4_shang{text-align: left;font-size: 30px;margin:20px 5px 20px 0}
+    .neirong_4 .nr4_zuo img{float: left;height: 560px;width: 230px}
+    .neirong_4 .nr4_you{width: 205px;height: 280px;float: left;margin: 0 20px;}
+    .neirong_4 .nr4_you_zong{width: 980px;height: 610px;float: left;}
+/* 4 */
+
+/* dibu */
+    .foot{clear: both;width: 1226px;height: 400px; margin-left: 60px;}
+    .foot .foot_shang{border-bottom: 1px solid #777}
+    .foot .foot_shang p{text-align: center}
+    .foot .foot_shang p span{text-align: center;margin: 23px;font-size: 18px;color: #777;line-height: 80px}
+
+    .foot .foot_zhong .foot_zuo{float: left;margin: 20px 50px 0 50px;font-size: 14px}
+    .foot .foot_zhong .foot_zuo p{line-height: 32px;}
+    .foot .foot_zhong .foot_zuo p a{color: #666}
+    .foot .foot_zhong .foot_zuo p a:hover{text-decoration: none;cursor: pointer;}
+    .foot .foot_zhong .foot_zuo .foot_zuo1{margin-bottom: 20px}
+
+    .foot .foot_zhong .foot_you{float: right;margin: 50px 0 50px 200px ;width: 260px; border-left:1px solid #888}
+    .foot .foot_zhong .foot_you p{text-align: center;}
+    .foot .foot_zhong .foot_you p{line-height: 35px}
+    .foot .foot_zhong .foot_you .foot_you1{font-size: 20px;}
+    .foot .foot_zhong .foot_you .foot_you1 a{color: orangered}
+    .foot .foot_zhong .foot_you .foot_you2{font-size: 14px}
+    .foot .foot_zhong .foot_you .foot_you2 a{color: black}
+    .foot .foot_zhong .foot_you .foot_you3{font-size: 14px;border: 1px solid orangered;width: 160px;margin-left: 60px}
+    .foot .foot_zhong .foot_you .foot_you3 a{color: orangered}
+    .foot .foot_zhong .foot_you .foot_you3 a:hover{text-decoration: none}
+
+    .foot .foot_xia{clear: both;}
+    .foot .foot_xia1{float: left;}
+    .foot .foot_xia2{float: left;margin:5px}
+    .foot .foot_xia2{font-size: 14px;}
+    .foot .foot_xia2 a{padding: 5px;color: #999}
+    .foot .foot_xia2 a{padding: 5px}
+/* dibu */
+
+
+
+
